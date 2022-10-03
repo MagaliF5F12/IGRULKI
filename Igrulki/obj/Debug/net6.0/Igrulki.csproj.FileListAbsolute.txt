@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\Igrulki\Igrulki\bin\Debug\net6.0\Igrulki.exe
+C:\Users\Ali\source\repos\Igrulki\Igrulki\bin\Debug\net6.0\Igrulki.deps.json
+C:\Users\Ali\source\repos\Igrulki\Igrulki\bin\Debug\net6.0\Igrulki.runtimeconfig.json
+C:\Users\Ali\source\repos\Igrulki\Igrulki\bin\Debug\net6.0\Igrulki.dll
+C:\Users\Ali\source\repos\Igrulki\Igrulki\bin\Debug\net6.0\Igrulki.pdb
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.dll
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\refint\Igrulki.dll
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.pdb
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\Igrulki.genruntimeconfig.cache
+C:\Users\Ali\source\repos\Igrulki\Igrulki\obj\Debug\net6.0\ref\Igrulki.dll
